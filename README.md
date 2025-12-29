@@ -16,7 +16,7 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Analyze sales, profit, and customer behavior patterns
 - Identify top-performing categories, segments, and regions
@@ -26,7 +26,7 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 🗂️ Tech Stack
+## Tech Stack
 
 - Storage -> SQLite 
 - Data Prep -> Python (Pandas, Matplotlib, Seaborn)
@@ -36,7 +36,7 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 📊 Key Business Findings
+## Key Business Findings
 
 - **Total Sales:** $2.30M  
 - **Total Profit:** $286.40K  
@@ -49,13 +49,13 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 🧭 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - data/ → raw & cleaned data
 - sql/ → all SQL queries
@@ -68,25 +68,25 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 🧠 End-to-End Workflow
+## End-to-End Workflow
 
-### 1️⃣ Data Engineering
+### 1 Data Engineering
 - Loaded CSV → SQLite using Python
 - Cleaned dataset and standardized date formatting
 - Exported final clean version for Power BI
 
-### 2️⃣ SQL Insights
+### 2️ SQL Insights
 - Category profitability  
 - Discount impact  
 - Top customers  
 - Monthly revenue trends  
 
-### 3️⃣ Python EDA
+### 3️ Python EDA
 - Bar charts, line charts, heatmaps  
 - Profit vs Discount exploration  
 - Trend analysis (Q4 peak)
 
-### 4️⃣ Power BI Dashboard
+### 4️ Power BI Dashboard
 - KPIs for Sales, Profit, Orders, Margin
 - Filters: Region, Category, Segment, Order Date
 - Trends: Monthly Sales, Regional Profit
@@ -94,7 +94,7 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. Reduce heavy discounting above 20%
 2. Increase marketing investment in Technology category
@@ -103,14 +103,14 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ---
 
-## 📥 How to Use This Repo
+## How to Use This Repo
 
 Clone and open the Power BI file: dashboard/superstore_dashboard.pbix
 Run notebook: notebooks/eda_analysis.ipynb
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
 This project demonstrates:
 - Strong analytical thinking  
@@ -119,5 +119,6 @@ This project demonstrates:
 - Business storytelling ability  
 
 Perfect for Data Analyst / BI Analyst roles.
+
 
 ---
