@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Analytics-lightgrey)
 
 # Superstore Sales Analytics (Power BI, Python, SQL)
-### By P3XSA | Data Analyst Portfolio Project
+### By Pesandu Randisa | Data Analyst Portfolio Project
 
 This project showcases a complete end-to-end data analytics workflow using a real retail dataset.  
 It demonstrates the skills expected from a Data Analyst / BI Analyst in a real business environment:
@@ -122,4 +122,5 @@ Perfect for Data Analyst / BI Analyst roles.
 
 
 ---
+
 
