@@ -105,8 +105,8 @@ It demonstrates the skills expected from a Data Analyst / BI Analyst in a real b
 
 ## How to Use This Repo
 
-Clone and open the Power BI file: dashboard/superstore_dashboard.pbix
-Run notebook: notebooks/eda_analysis.ipynb
+- Clone and open the Power BI file: dashboard/superstore_dashboard.pbix
+- Run notebook: notebooks/eda_analysis.ipynb
 
 ---
 
@@ -122,3 +122,4 @@ Perfect for Data Analyst / BI Analyst roles.
 
 
 ---
+
